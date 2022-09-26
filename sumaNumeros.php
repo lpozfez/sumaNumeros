@@ -10,6 +10,8 @@
         }else{
             echo 'Falta alguna de las variables';
         }
+    }else{
+        echo 'Ha introducido una variable no numérica';
     }
     
      
